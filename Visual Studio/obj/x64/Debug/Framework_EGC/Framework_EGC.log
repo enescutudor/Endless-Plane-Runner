@@ -1,0 +1,41 @@
+﻿  CameraInput.cpp
+  SceneInput.cpp
+  SimpleScene.cpp
+  Engine.cpp
+  GPUBuffers.cpp
+  Mesh.cpp
+  Shader.cpp
+  Texture2D.cpp
+  TextureManager.cpp
+  InputController.cpp
+  WindowCallbacks.cpp
+  WindowObject.cpp
+  World.cpp
+  gl.cpp
+  Laborator1.cpp
+  Laborator2.cpp
+  Laborator3.cpp
+  Laborator3_Vis2D.cpp
+  Object2D.cpp
+  Laborator5.cpp
+  Laborator6.cpp
+  Laborator7.cpp
+  Laborator8.cpp
+C:\Users\enesc\Desktop\Tema2EGC\Source\Laboratoare\Laborator3\Laborator3.cpp(77,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Laborator9.cpp
+  Tema2.cpp
+  Main.cpp
+C:\Users\enesc\Desktop\Tema2EGC\Source\Laboratoare\Laborator6\Laborator6.cpp(195,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\enesc\Desktop\Tema2EGC\Source\Laboratoare\Tema2\Tema2.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\enesc\Desktop\Tema2EGC\Source\Laboratoare\Tema2\Tema2.cpp(197,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\enesc\Desktop\Tema2EGC\Source\Laboratoare\Tema2\Tema2.cpp(213,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Framework_EGC.vcxproj -> C:\Users\enesc\Desktop\Tema2EGC\Visual Studio\..\x64\Debug\Framework_EGC.exe
+  A subdirectory or file C:\Users\enesc\Desktop\Tema2EGC\Visual Studio\scripts\..\..\x64\Debug already exists.
+  C:\Users\enesc\Desktop\Tema2EGC\Visual Studio\scripts\..\..\libs\GL\x64\Release\glew32.dll
+  1 File(s) copied
+  C:\Users\enesc\Desktop\Tema2EGC\Visual Studio\scripts\..\..\libs\GLFW\x64\Debug\glfw3.dll
+  1 File(s) copied
+  C:\Users\enesc\Desktop\Tema2EGC\Visual Studio\scripts\..\..\libs\assimp\x64\Debug\assimpd.dll
+  1 File(s) copied
+  C:\Users\enesc\Desktop\Tema2EGC\Visual Studio\scripts\..\..\libs\Engine\x64\Debug\Components.dll
+  1 File(s) copied
